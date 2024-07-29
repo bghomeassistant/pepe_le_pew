@@ -1,0 +1,10 @@
+{
+  "name": "$Pepe Le Pew",
+  "symbol": "PEPEW",
+  "description": "Pepe Le Pew on Solana. Be ready - he's coming! Best french lover on Solana.",
+  "image": "https://raw.githubusercontent.com/bghomeassistant/pepe_le_pew/fab234210a7de6b85e62ab1d139a7b611ec85dd1/pepe-le-pew.png",
+  "extensions": {
+    "website": "https://looneytunes.fandom.com/wiki/Pep%C3%A9_Le_Pew",
+    "twitter": "https://twitter.com/lepewsol"
+  }
+}
